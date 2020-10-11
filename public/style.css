@@ -1,0 +1,27 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.input-reset {
+  border: none;
+}
+
+.input-reset:focus {
+  border: none;
+  outline: none;
+}
+
+.button-reset {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.button-reset:active {
+  outline: none;
+}
+
+.button-reset:focus {
+  outline: none;
+  border: none;
+}
